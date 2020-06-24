@@ -15,11 +15,11 @@ npm install
 2. After that type:
 
 ```bash
-yarn dev 
+yarn start
 
 or 
 
-npm run dev
+npm start
 ```
 
 3. To run the tests run 
